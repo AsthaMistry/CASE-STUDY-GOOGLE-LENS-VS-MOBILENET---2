@@ -1,0 +1,33 @@
+body{
+    background-color: pink;
+}
+
+.img{
+    width: 90px;
+    height: 90px;
+}
+
+#title{
+    background-color: powderblue;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#google{
+    width: 30px;
+    height: 30px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+#bottle{
+    margin-bottom: 40px;
+}
